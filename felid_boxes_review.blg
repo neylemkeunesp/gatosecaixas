@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: felid_boxes_review.aux
+The style file: abbrvnat.bst
+Database file #1: references.bib
+You've used 52 entries,
+            2773 wiz_defined-function locations,
+            906 strings with 11892 characters,
+and the built_in function-call counts, 23474 in all, are:
+= -- 2132
+> -- 1274
+< -- 35
++ -- 437
+- -- 384
+* -- 1861
+:= -- 3645
+add.period$ -- 159
+call.type$ -- 52
+change.case$ -- 276
+chr.to.int$ -- 51
+cite$ -- 104
+duplicate$ -- 1072
+empty$ -- 1964
+format.name$ -- 468
+if$ -- 4872
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 62
+newline$ -- 271
+num.names$ -- 208
+pop$ -- 529
+preamble$ -- 1
+purify$ -- 232
+quote$ -- 0
+skip$ -- 793
+stack$ -- 0
+substring$ -- 1069
+swap$ -- 73
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 517
+warning$ -- 0
+while$ -- 237
+width$ -- 0
+write$ -- 691
